@@ -1,1 +1,0 @@
-Nuestra aplicación web trata sobre la compra y gestión de los billetes de vuelo de una compañía aérea ficticia (Volanding).
