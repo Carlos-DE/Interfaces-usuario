@@ -1,0 +1,352 @@
+[
+  {
+    "_id": "641b290865e1e855f5580d9f",
+    "origen": "Leeper",
+    "destino": "Coral",
+    "fecha": "Sun Oct 26 2003 03:23:44 GMT+0100 (hora estándar de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b2908988dc24975db809f",
+    "origen": "Clay",
+    "destino": "Mapletown",
+    "fecha": "Mon May 19 1986 11:22:21 GMT+0200 (hora de verano de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b2908639a8d46cb5f1386",
+    "origen": "Nanafalia",
+    "destino": "Riceville",
+    "fecha": "Mon Sep 06 2021 16:13:38 GMT+0200 (hora de verano de Europa central)",
+    "precio": 5
+  },
+  {
+    "_id": "641b290803bec44ce1296cdb",
+    "origen": "National",
+    "destino": "Tetherow",
+    "fecha": "Sat Jun 12 2010 12:32:42 GMT+0200 (hora de verano de Europa central)",
+    "precio": 1
+  },
+  {
+    "_id": "641b2908e7e4b730c17d905a",
+    "origen": "Grazierville",
+    "destino": "Hamilton",
+    "fecha": "Wed Jul 16 1997 06:49:34 GMT+0200 (hora de verano de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b290833083dc50882ef57",
+    "origen": "Spokane",
+    "destino": "Navarre",
+    "fecha": "Thu Sep 24 1987 14:10:53 GMT+0200 (hora de verano de Europa central)",
+    "precio": 3
+  },
+  {
+    "_id": "641b2908c906d454c0e359bf",
+    "origen": "Weeksville",
+    "destino": "Bedias",
+    "fecha": "Wed Jul 02 2014 01:23:08 GMT+0200 (hora de verano de Europa central)",
+    "precio": 9
+  },
+  {
+    "_id": "641b2908a6051869a96d47b0",
+    "origen": "Chaparrito",
+    "destino": "Blanford",
+    "fecha": "Mon Jul 18 2016 22:02:50 GMT+0200 (hora de verano de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b2908c7f9a8367d8a1f3f",
+    "origen": "Rossmore",
+    "destino": "Berwind",
+    "fecha": "Sat Apr 27 1985 12:08:34 GMT+0200 (hora de verano de Europa central)",
+    "precio": 0
+  },
+  {
+    "_id": "641b2908dc8c70db76f652f7",
+    "origen": "Fulford",
+    "destino": "Morgandale",
+    "fecha": "Mon Dec 30 1991 23:52:08 GMT+0100 (hora estándar de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b2908273e095a2ea43fd1",
+    "origen": "Itmann",
+    "destino": "Hoehne",
+    "fecha": "Tue Feb 05 1974 18:44:59 GMT+0100 (hora estándar de Europa central)",
+    "precio": 0
+  },
+  {
+    "_id": "641b290897773ada4abb61df",
+    "origen": "Ronco",
+    "destino": "Ona",
+    "fecha": "Thu Dec 15 2022 13:23:54 GMT+0100 (hora estándar de Europa central)",
+    "precio": 10
+  },
+  {
+    "_id": "641b29081f7e94946ef7b01f",
+    "origen": "Independence",
+    "destino": "Summertown",
+    "fecha": "Sun Dec 04 1983 00:35:06 GMT+0100 (hora estándar de Europa central)",
+    "precio": 8
+  },
+  {
+    "_id": "641b290806092b23ecf5ced2",
+    "origen": "Linganore",
+    "destino": "Lowell",
+    "fecha": "Thu May 09 1974 07:13:16 GMT+0200 (hora de verano de Europa central)",
+    "precio": 9
+  },
+  {
+    "_id": "641b2908f03f85771a853443",
+    "origen": "Yukon",
+    "destino": "Riviera",
+    "fecha": "Thu Aug 15 1991 23:13:16 GMT+0200 (hora de verano de Europa central)",
+    "precio": 2
+  },
+  {
+    "_id": "641b29087e02aa6a2e599ba9",
+    "origen": "Veguita",
+    "destino": "Yettem",
+    "fecha": "Mon Jan 25 1971 14:46:33 GMT+0100 (hora estándar de Europa central)",
+    "precio": 4
+  },
+  {
+    "_id": "641b2908e725107ae7832e7a",
+    "origen": "Layhill",
+    "destino": "Jenkinsville",
+    "fecha": "Mon Apr 08 1985 20:50:17 GMT+0200 (hora de verano de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b29087150ad34692b933c",
+    "origen": "Rodanthe",
+    "destino": "Beechmont",
+    "fecha": "Mon Jun 06 2005 15:03:37 GMT+0200 (hora de verano de Europa central)",
+    "precio": 4
+  },
+  {
+    "_id": "641b2908ac08dc69bbcaf460",
+    "origen": "Kula",
+    "destino": "Shelby",
+    "fecha": "Fri Feb 16 1979 08:08:25 GMT+0100 (hora estándar de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b290835bbba7d6c7a169a",
+    "origen": "Allentown",
+    "destino": "Fannett",
+    "fecha": "Sat Apr 01 2006 15:05:04 GMT+0200 (hora de verano de Europa central)",
+    "precio": 1
+  },
+  {
+    "_id": "641b2908ba0ad1afee5a409c",
+    "origen": "Bradenville",
+    "destino": "Convent",
+    "fecha": "Sun Jul 10 2022 03:10:56 GMT+0200 (hora de verano de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b290811cbe93c83c4fcdd",
+    "origen": "Kanauga",
+    "destino": "Virgie",
+    "fecha": "Tue Mar 10 1987 01:50:12 GMT+0100 (hora estándar de Europa central)",
+    "precio": 8
+  },
+  {
+    "_id": "641b2908a309a04290bf4879",
+    "origen": "Bladensburg",
+    "destino": "Enlow",
+    "fecha": "Sat Feb 16 2002 16:19:57 GMT+0100 (hora estándar de Europa central)",
+    "precio": 0
+  },
+  {
+    "_id": "641b2908078493dff12dd4c2",
+    "origen": "Henrietta",
+    "destino": "Dixonville",
+    "fecha": "Sun Oct 24 2004 22:36:24 GMT+0200 (hora de verano de Europa central)",
+    "precio": 5
+  },
+  {
+    "_id": "641b29086fe82c8a36866c06",
+    "origen": "Bloomington",
+    "destino": "Levant",
+    "fecha": "Thu May 29 1975 04:07:06 GMT+0200 (hora de verano de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b2908f15f501447e1c6bd",
+    "origen": "Gallina",
+    "destino": "Englevale",
+    "fecha": "Mon Oct 23 1978 19:05:06 GMT+0100 (hora estándar de Europa central)",
+    "precio": 10
+  },
+  {
+    "_id": "641b2908d33df211eed30eaa",
+    "origen": "Vienna",
+    "destino": "Rockbridge",
+    "fecha": "Wed Jan 12 2000 13:03:27 GMT+0100 (hora estándar de Europa central)",
+    "precio": 0
+  },
+  {
+    "_id": "641b29080cae99cd94d30f6f",
+    "origen": "Munjor",
+    "destino": "Gardiner",
+    "fecha": "Wed Oct 03 2007 13:14:37 GMT+0200 (hora de verano de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b29085d067080470b577f",
+    "origen": "Whitmer",
+    "destino": "Brogan",
+    "fecha": "Wed Jan 05 1994 12:01:58 GMT+0100 (hora estándar de Europa central)",
+    "precio": 9
+  },
+  {
+    "_id": "641b2908e0a8fa021db7144c",
+    "origen": "Mooresburg",
+    "destino": "Gorst",
+    "fecha": "Tue Jul 31 2012 08:57:16 GMT+0200 (hora de verano de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b290821bc161266e58060",
+    "origen": "Dunnavant",
+    "destino": "Dahlen",
+    "fecha": "Thu Oct 04 2007 19:38:47 GMT+0200 (hora de verano de Europa central)",
+    "precio": 10
+  },
+  {
+    "_id": "641b29080d0e152e77e810d4",
+    "origen": "Tampico",
+    "destino": "Brandywine",
+    "fecha": "Sat Jun 12 2010 05:51:18 GMT+0200 (hora de verano de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b29084b0a31bcdeee64a8",
+    "origen": "Russellville",
+    "destino": "Lupton",
+    "fecha": "Fri Oct 22 1976 14:32:44 GMT+0100 (hora estándar de Europa central)",
+    "precio": 8
+  },
+  {
+    "_id": "641b2908d5bada921ea4fe85",
+    "origen": "Delwood",
+    "destino": "Darbydale",
+    "fecha": "Tue Dec 15 2020 19:05:29 GMT+0100 (hora estándar de Europa central)",
+    "precio": 4
+  },
+  {
+    "_id": "641b2908825f9c1ee79dd064",
+    "origen": "Ogema",
+    "destino": "Geyserville",
+    "fecha": "Fri Mar 10 1972 05:26:05 GMT+0100 (hora estándar de Europa central)",
+    "precio": 10
+  },
+  {
+    "_id": "641b2908424f890d7c9c5425",
+    "origen": "Germanton",
+    "destino": "Vale",
+    "fecha": "Mon May 08 1978 22:08:20 GMT+0200 (hora de verano de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b2908f841fe1a3f5151b4",
+    "origen": "Waukeenah",
+    "destino": "Weogufka",
+    "fecha": "Thu Apr 26 2018 13:20:42 GMT+0200 (hora de verano de Europa central)",
+    "precio": 9
+  },
+  {
+    "_id": "641b29087ea9af872073fbcd",
+    "origen": "Soudan",
+    "destino": "Homestead",
+    "fecha": "Wed Mar 22 1978 21:39:25 GMT+0100 (hora estándar de Europa central)",
+    "precio": 9
+  },
+  {
+    "_id": "641b290881b6db1a84bc9d7b",
+    "origen": "Moscow",
+    "destino": "Hemlock",
+    "fecha": "Thu Nov 02 2017 08:46:31 GMT+0100 (hora estándar de Europa central)",
+    "precio": 7
+  },
+  {
+    "_id": "641b29087696c6376d2d9097",
+    "origen": "Staples",
+    "destino": "Verdi",
+    "fecha": "Thu Sep 10 1987 11:06:40 GMT+0200 (hora de verano de Europa central)",
+    "precio": 1
+  },
+  {
+    "_id": "641b2908558151cbbe914ec4",
+    "origen": "Osage",
+    "destino": "Wintersburg",
+    "fecha": "Mon Jan 02 2012 09:44:45 GMT+0100 (hora estándar de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b29084ea304a49cc0f50f",
+    "origen": "Reinerton",
+    "destino": "Glenbrook",
+    "fecha": "Thu Nov 03 1988 16:09:09 GMT+0100 (hora estándar de Europa central)",
+    "precio": 9
+  },
+  {
+    "_id": "641b2908d93669f0c32d5f34",
+    "origen": "Buxton",
+    "destino": "Sedley",
+    "fecha": "Thu Dec 06 1973 21:43:57 GMT+0100 (hora estándar de Europa central)",
+    "precio": 1
+  },
+  {
+    "_id": "641b2908cf355f6556c87d64",
+    "origen": "Kimmell",
+    "destino": "Roy",
+    "fecha": "Sun Oct 21 1990 12:10:53 GMT+0100 (hora estándar de Europa central)",
+    "precio": 5
+  },
+  {
+    "_id": "641b29084916c6b80ea6b250",
+    "origen": "Taycheedah",
+    "destino": "Grandview",
+    "fecha": "Sat Jun 23 1973 06:55:22 GMT+0100 (hora estándar de Europa central)",
+    "precio": 4
+  },
+  {
+    "_id": "641b290840fccf0ba0aeefb1",
+    "origen": "Sabillasville",
+    "destino": "Glenshaw",
+    "fecha": "Mon Aug 26 2019 22:13:15 GMT+0200 (hora de verano de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b290872965228069fbe41",
+    "origen": "Roosevelt",
+    "destino": "Rose",
+    "fecha": "Fri Jan 25 2008 04:37:34 GMT+0100 (hora estándar de Europa central)",
+    "precio": 8
+  },
+  {
+    "_id": "641b29082c8a375306e9c27c",
+    "origen": "Brambleton",
+    "destino": "Heil",
+    "fecha": "Mon Aug 24 2015 01:45:05 GMT+0200 (hora de verano de Europa central)",
+    "precio": 4
+  },
+  {
+    "_id": "641b29083a8a25610a09300e",
+    "origen": "Rivers",
+    "destino": "Wyano",
+    "fecha": "Sat Jan 02 1982 15:24:31 GMT+0100 (hora estándar de Europa central)",
+    "precio": 6
+  },
+  {
+    "_id": "641b2908b86c7e3ed7bf3b87",
+    "origen": "Romeville",
+    "destino": "Stevens",
+    "fecha": "Sun May 18 1975 18:09:21 GMT+0200 (hora de verano de Europa central)",
+    "precio": 10
+  }
+]
